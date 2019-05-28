@@ -1,0 +1,2 @@
+# CompImg
+Compara imagenes
